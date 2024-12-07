@@ -1,0 +1,32 @@
+scene=lakeregion
+item=GEAR_Camera p=786.1268,214.4349,966.6075 r=-0.0000,58.0259,-0.0000 c=20
+
+scene=coastalregion
+item=GEAR_Camera p=353.9421,204.1839,1156.5853 r=-0.0000,129.0849,-0.0000 c=30
+
+scene=MountainTownRegion
+item=GEAR_Camera p=964.9198,304.8902,1232.9292 r=-0.0000,0.1405,-0.0000 c=15
+
+scene=RiverValleyRegion
+item=GEAR_Camera p=1422.2679,e288.3661,1308.5790 r=356.3989,196.4669,9.9515 c=100
+
+scene=AshCanyonRegion
+item=GEAR_Camera p=-93.3968,132.7899,-349.6264 r=359.2444,246.3934,357.8903 c=70
+
+scene=RuralRegion
+item=GEAR_Camera p=447.4132,180.1321,1646.7393 r=0.0069,6.3598,339.3270 c=20
+
+scene=RadioControlHut
+item=GEAR_Camera p=2.5252,1.5137,-0.0585 r=0.0000,237.9732,0.0000 c=25
+
+scene=BlackrockPrisonSurvivalZone
+item=GEAR_Camera p=-232.6736,235.2878,158.3081 r=-0.0000,126.3246,-0.0000 c=40
+
+scene=HuntingLodgeA
+item=GEAR_Camera p=0.6455,7.2588,-4.3954 r=-0.0000,89.4947,-0.0000 c=15
+
+scene=CrashMountainRegion
+item=GEAR_Camera p=770.0023,397.7838,1692.0809 r=8.2605,290.3837,4.5237 c=60
+
+loottable=LootTableSuitcase
+item=GEAR_Camera w=1
